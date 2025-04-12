@@ -92,6 +92,7 @@ Visit `http://localhost:8501` in your browser to interact with the app.
 
 **Author:** Abhishek Choudhary  
 **GitHub:** [abhishekchoudhary0210](https://github.com/abhishekchoudhary0210)
+**Author:** Ishita Agarwal
 
 ---
 
