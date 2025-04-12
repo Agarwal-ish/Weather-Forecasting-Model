@@ -58,13 +58,38 @@ Visit `http://localhost:8501` in your browser to interact with the app.
 
 ---
 
-## 🌐 Demo
-*A hosted version or screenshots could be linked or embedded here.*
 
-## 📚 License
-MIT License - feel free to use, modify, and distribute.
+## 📸 Screenshots
+
+### 📍 Model Dashboard Views
+
+#### 1. Main Forecasting Dashboard
+![Dashboard Screenshot 1](Assets/Screenshot_Dashboard_1.png)
+
+#### 2. Model Evaluation & Analysis
+![Dashboard Screenshot 2](Assets/Screenshot_Dashboard_2.png)
+
+## 📅 Data Source
+
+- [Meteostat API](https://dev.meteostat.net/) — Historical weather data
 
 ---
 
-Made with ❤️ by [Your Name / Team Name]
+## 📌 Future Enhancements
+
+- Add real-time weather prediction
+- Integrate additional models (e.g., LSTM, XGBoost)
+- Deploy using Streamlit Cloud or Hugging Face Spaces
+
+---
+
+## 📬 Contact
+
+**Author:** Abhishek Choudhary  
+**GitHub:** [abhishekchoudhary0210](https://github.com/abhishekchoudhary0210)
+
+---
+
+
+Made with ❤️ by [Our Team]
 
