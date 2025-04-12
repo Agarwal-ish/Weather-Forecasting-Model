@@ -1,9 +1,9 @@
-# 🌧️ Delhi Weather Forecasting Dashboard
+<h1 align="center">🌧️ Delhi Weather Forecasting Dashboard</h1>
 
-## 📅 Project Overview
+<h2 align="center">📅 Project Overview</h2>
 The **Delhi Weather Forecasting Dashboard** is an interactive and visually rich Streamlit application that utilizes historical weather data and machine learning models to forecast future weather conditions in Delhi. This tool is especially helpful for users who want quick and informed weather insights based on past trends or customized parameter inputs.
 
-## 🔧 Key Features & Technologies
+<h2 align="center"> 🔧 Key Features & Technologies</h2>
 ### Features:
 - Interactive dashboard for weather insights and forecasts.
 - Predict next-day temperature, precipitation probability, and weather condition.
@@ -23,7 +23,7 @@ The **Delhi Weather Forecasting Dashboard** is an interactive and visually rich 
 - **Plotly** - Interactive visualizations.
 - **Imbalanced-learn** - Handling classification imbalance.
 
-## 🚀 Setup Instructions
+<h2 align="center">🚀 Setup Instructions</h2>
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
@@ -69,6 +69,8 @@ Visit `http://localhost:8501` in your browser to interact with the app.
 #### 2. Model Evaluation & Analysis
 ![Dashboard Screenshot 2](Assets/Screenshot_Dashboard_2.png)
 
+![Dashboard Screenshot 2](Assets/Screenshot_Dashboard_3.png)
+
 ## 📅 Data Source
 
 - [Meteostat API](https://dev.meteostat.net/) — Historical weather data
@@ -91,5 +93,5 @@ Visit `http://localhost:8501` in your browser to interact with the app.
 ---
 
 
-Made with ❤️ by [Our Team]
+Made with ❤️ by Our Team
 
